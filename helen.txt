@@ -1,2 +1,42 @@
-meu nome e helen
-miopia
+data:30/julho
+nome: helen
+atividade:sequencia logica de lavar a louça.
+
+- pegue o detergente (com a mão esquerda;
+- abra ele(com a direita)para cima;
+- pegue a esponja(com a direita)
+- vire o detergente em 90graus sobre a  esponja;
+- volte os 90graus;
+- largue o detergente ao lado na pia em pé;
+- abra a torneira;
+- coloque a esponja na aguá corrente;
+- fecha a torneira;
+- pegue o prato;
+- lave o prato;
+- largue a esponja ao lado na pia;
+- abra a torneira;
+- leve o prato até a água;
+- enxague o prato;
+- fecha a torneira;
+- coloque o prato no escorredor;
+- pegue a esponja (com a mão esquerda);
+- pegue o detergente(com mão direita);
+- vire o detergente em 90graus sobre a  esponja;
+- volte os 90graus;
+- largue o detergente ao lado na pia em pé;
+- pegue a colher;
+- lave a colher;
+- largue a esponja ao lado;
+- abra a torneira;
+- enxague a colher;
+- fecha a torneira;
+- coloque no escorredor;
+- pegue a esponja lave a pia;
+- largue a esponja no seu lugar;
+- pegue o detergente guarda no seu lugar;
+- abra a torneira;
+- enxague a pia;
+- fecha a torneira;
+- pegue o rodo de pia;
+- seque a pia;
+- coloque o rodo no fundo da pia;
